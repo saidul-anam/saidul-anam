@@ -3,7 +3,9 @@
 </div>
 
 # Hi, I'm Saidul Anam Siam! 👋
-Passionate about technology, problem-solving, and building impactful projects. 🚀  
+- I am a second year undergraduate student in Bangladesh University Of Engineering & Technology.
+- Currently I am doing my major in Computer Science Engineering.
+- I am passionate about technology, problem-solving, and building impactful projects. 🚀  
 Feel free to explore my repositories and connect with me! 💻
 
 ---

@@ -13,7 +13,7 @@ Feel free to explore my repositories and connect with me! 💻
 
 ---
 
-## 🌟 Highlights & Stats
+## 🌟 Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saidul-anam&show_icons=true&theme=radical" alt="GitHub Stats" width="400">
@@ -76,7 +76,7 @@ Feel free to explore my repositories and connect with me! 💻
 
 ---
 
-## 🌟 Get in Touch
+## 🌟 Connect With Me
 
 <div align="center">
   <a href="mailto:saidulanamsiam2003@gmail.com">
@@ -94,7 +94,7 @@ Feel free to explore my repositories and connect with me! 💻
 
 ---
 
-## 🎉 Just for Fun
+## 
 
 <div align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding Gif" width="600">

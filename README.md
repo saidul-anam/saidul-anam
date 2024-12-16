@@ -3,7 +3,7 @@
 </div>
 
 # Hi, I'm Saidul Anam Siam! 👋
-Welcome to my GitHub Profile! I'm passionate about technology, problem-solving, and building impactful projects. 🚀  
+Passionate about technology, problem-solving, and building impactful projects. 🚀  
 Feel free to explore my repositories and connect with me! 💻
 
 ---

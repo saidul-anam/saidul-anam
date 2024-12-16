@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Computer Science Gif" width="600">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Computer Science Gif" width="300">
 </div>
 
 # Hi, I'm Saidul Anam Siam! 👋

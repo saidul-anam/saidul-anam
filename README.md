@@ -9,10 +9,12 @@ Feel free to explore my repositories and connect with me! 💻
 ---
 
 ## 🧑‍💻 About Me
-- 🌱 **Currently learning:** Machine Learning, Deep Learning, and Modern Web Technologies.
-- 🧠 **Fun fact:** I solve problems one line of code at a time!
-- 💬 **Ask me about:** Python, Django, React, or AI/ML models.
-- ⚡ **Hobbies:** Watching anime, movies, and coding for fun!
+- 🌱 **Currently learning:** Machine Learning, Deep Learning, and Full Stack Development.
+- 🔄 **Always exploring:** New frameworks, languages, and AI tools.
+- 🤖 **AI Enthusiast:** Passionate about AI and Machine Learning, always ready to work on projects or research.
+- 🤓 **Fun fact:** I believe "Hello, World!" is the ultimate icebreaker. 🌐
+- 🔮 **Life motto:** Write code, debug, repeat, and celebrate the "It works!" moments.
+- ✨ **Hobbies:** Watching anime, movies, and exploring creative coding projects.
 
 ---
 
@@ -20,7 +22,7 @@ Feel free to explore my repositories and connect with me! 💻
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saidul-anam&show_icons=true&theme=radical" alt="GitHub Stats" width="400">
-  <img src="https://streak-stats.demolab.com/?user=saidul-anam&theme=radical" alt="GitHub Streak" width="400">
+  <img src="https://streak-stats.demolab.com?user=saidul-anam&theme=radical&hide_border=true" alt="GitHub Streak" width="400">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidul-anam&layout=compact&theme=radical" alt="Top Languages" width="400">
 </div>
 
@@ -47,27 +49,44 @@ Feel free to explore my repositories and connect with me! 💻
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" alt="TensorFlow"><br>TensorFlow
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" alt="Docker"><br>Docker
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" alt="PyTorch"><br>PyTorch
       </td>
     </tr>
     <tr>
       <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" alt="MongoDB"><br>MongoDB
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java"><br>Java
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" alt="C++"><br>C++
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" alt="C"><br>C
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" alt="Node.js"><br>Node.js
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50" alt="Oracle"><br>Oracle
       </td>
       <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL"><br>PostgreSQL
       </td>
+    </tr>
+    <tr>
       <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"><br>Git
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub"><br>GitHub
       </td>
       <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5"><br>HTML5
       </td>
       <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3"><br>CSS3
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" alt="Firebase"><br>Firebase
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" alt="Bash"><br>Bash
       </td>
     </tr>
   </table>
@@ -81,14 +100,13 @@ Feel free to explore my repositories and connect with me! 💻
   <a href="mailto:saidulanamsiam2003@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" alt="Email">
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/saidul-anam-siam-287543259/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/saidulanamsiam">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="50" alt="Twitter">
-  </a>
-  <a href="https://github.com/saidul-anam">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/saidul.anam.39">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="50" alt="Facebook">
   </a>
 </div>
 
@@ -99,6 +117,6 @@ Feel free to explore my repositories and connect with me! 💻
 <div align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding Gif" width="600">
   <br><br>
-  <img src="https://i.imgur.com/vgdbz0Q.png" alt="Meme" width="500">
-  <p><em>“It's not a bug. It's a feature!”</em></p>
+  <img src="https://i.imgur.com/3Uih7Ue.jpeg" alt="Meme" width="500">
+  <p><em>"Why was the computer cold? It left its Windows open!"</em></p>
 </div>

@@ -17,7 +17,6 @@ Feel free to explore my repositories and connect with me! 💻
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saidul-anam&show_icons=true&theme=radical" alt="GitHub Stats" width="400">
-  <img src="https://streak-stats.demolab.com?user=saidul-anam&theme=radical&hide_border=true" alt="GitHub Streak" width="400">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidul-anam&layout=compact&theme=radical" alt="Top Languages" width="400">
 </div>
 
@@ -101,5 +100,5 @@ Feel free to explore my repositories and connect with me! 💻
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding Gif" width="600">
   <br><br>
   <img src="https://i.imgur.com/3Uih7Ue.jpeg" alt="Meme" width="500">
-  <p><em>"Why was the computer cold? It left its Windows open!"</em></p>
+  <p><em>"+It's not a bug,it's a feature"</em></p>
 </div>

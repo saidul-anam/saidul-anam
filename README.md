@@ -100,5 +100,5 @@ Feel free to explore my repositories and connect with me! 💻
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding Gif" width="600">
   <br><br>
   <img src="https://i.imgur.com/3Uih7Ue.jpeg" alt="Meme" width="500">
-  <p><em>"+It's not a bug,it's a feature"</em></p>
+  <p><em>"It's not a bug,it's a feature"</em></p>
 </div>

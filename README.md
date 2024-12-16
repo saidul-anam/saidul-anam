@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/xUPGcJGy8I928yIlAQ/giphy.gif" alt="Welcome Gif" width="600">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Computer Science Gif" width="600">
 </div>
 
 # Hi, I'm Saidul Anam Siam! 👋
@@ -8,13 +8,8 @@ Feel free to explore my repositories and connect with me! 💻
 
 ---
 
-## 🧑‍💻 About Me
 - 🌱 **Currently learning:** Machine Learning, Deep Learning, and Full Stack Development.
-- 🔄 **Always exploring:** New frameworks, languages, and AI tools.
 - 🤖 **AI Enthusiast:** Passionate about AI and Machine Learning, always ready to work on projects or research.
-- 🤓 **Fun fact:** I believe "Hello, World!" is the ultimate icebreaker. 🌐
-- 🔮 **Life motto:** Write code, debug, repeat, and celebrate the "It works!" moments.
-- ✨ **Hobbies:** Watching anime, movies, and exploring creative coding projects.
 
 ---
 
@@ -76,18 +71,6 @@ Feel free to explore my repositories and connect with me! 💻
       <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"><br>Git
       </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5"><br>HTML5
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3"><br>CSS3
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" alt="Firebase"><br>Firebase
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" alt="Bash"><br>Bash
-      </td>
     </tr>
   </table>
 </div>
@@ -105,7 +88,7 @@ Feel free to explore my repositories and connect with me! 💻
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/saidul.anam.39">
+  <a href="https://www.facebook.com/saidul.anamsiam">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="50" alt="Facebook">
   </a>
 </div>

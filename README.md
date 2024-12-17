@@ -19,7 +19,8 @@ Feel free to explore my repositories and connect with me! 💻
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saidul-anam&show_icons=true&theme=radical" alt="GitHub Stats" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidul-anam&layout=compact&theme=radical" alt="Top Languages" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidul-anam&layout=compact&theme=radical&hide=jupyter%20notebook" alt="Top Languages" width="400">
+
 </div>
 
 ---

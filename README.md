@@ -3,7 +3,7 @@
 </div>
 
 # Hi, I'm Saidul Anam Siam! 👋
-- I am a third year undergraduate student from Bangladesh University of Engineering & Technology.
+- I am a final year undergraduate student from Bangladesh University of Engineering & Technology.
 - My major is Computer Science Engineering.
 - I am passionate about technology, problem-solving, and building impactful projects. 🚀  
 Feel free to explore my repositories and connect with me! 💻
